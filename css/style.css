@@ -1,0 +1,15 @@
+.ico{
+    width: 10px;
+}
+body{
+    font-size: 60px;
+    color: yellow;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    text-decoration: underline;
+    transition-duration: 1s;
+}
